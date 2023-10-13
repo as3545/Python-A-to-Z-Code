@@ -1,5 +1,4 @@
 //Code
-
 def plusMinus(arr):
     n = len(arr)
     p = ne = z= 0
